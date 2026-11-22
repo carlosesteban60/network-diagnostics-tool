@@ -3,8 +3,6 @@
 A multithreaded Python command-line client-server network diagnostics application built using raw TCP sockets.
 
 ## Team Members
-| Role | Assigned Component | Student Name |
-| :--- | :--- | :--- | :--- |
 | Student 1 | Multithreaded Server (`server.py`) | Yassin |
 | Student 2 | Reachability Client (`ping_client.py`) | Mohammad |
 | Student 3 | Latency Client (`echo_client.py`) | Haitham |
