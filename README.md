@@ -4,8 +4,11 @@ A multithreaded Python command-line client-server network diagnostics applicatio
 
 ## Team Members
 | Student 1 | Multithreaded Server (`server.py`) | Yassin |
+
 | Student 2 | Reachability Client (`ping_client.py`) | Mohammad |
+
 | Student 3 | Latency Client (`echo_client.py`) | Haitham |
+
 | Student 4 | Server Activity Client (`stats_client.py`) | Husam |
 
 ## Setup Instructions
